@@ -1,0 +1,35 @@
+{
+"workName": "VideoJuegos",
+"autorName": "Jorge López",
+"created": 2020,
+"VideoGamesIncluded": [
+{
+ "nombre": "Dragon Ball: Dokkan Battle",
+ "fecha_publicacion": 2015,
+ "creador": "bandai",
+ "generos":[ 
+ "Estrategia",
+ "RGP"
+ ]
+ },
+ {
+  "nombre": "Minecraft",
+ "fecha_publicacion": 2009,
+ "creador": "Mojang",
+ "generos": [ 
+ "Aventura",
+ "Construccion",
+ "Multijugador"
+ ]
+ },
+ {
+  "nombre": "Mario Kart DS",
+ "fecha_publicacion": 2005,
+ "creador": "Nintendo",
+ "generos": [ 
+ "Coches",
+  "Multijugador"
+ ]
+ }
+ ]
+ }
